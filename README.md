@@ -2,4 +2,4 @@
 
 - hello
   - see you
-  -think
+  - think
